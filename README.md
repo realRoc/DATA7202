@@ -1,6 +1,4 @@
-# DATA7202
-
-#### Assignments in DATA7202, University of Queensland.
+# Assignments in DATA7202, University of Queensland.
 
 Goal: Record my code & knowledge.
 
