@@ -1,10 +1,11 @@
-# Assignments in DATA7202, University of Queensland.
+# DATA7202
 
-Goal: Record my code & knowledge.
+These are assignments for DATA7202 Statistical Methods for Data Science
 
 A1: Build a general linear regression model and a logistic regression model to predict the "shares" of an article.
 
-## Note:
-If you are a UQ student, please do not just copy my code.
+A2: Part A: Muiltiple linear regression for A1 problem. Part B: Time teries analysis for passenger trajectory data.
 
-Yupeng Wu
+A3: Apply the Crude Monte Carlo algorithm and cross-validation to solve problems.
+
+A4: Bootstrap and MMc Queue problem solving.
